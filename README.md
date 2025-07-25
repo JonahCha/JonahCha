@@ -1,31 +1,104 @@
-![Header](./your-header-image-name.png)
-<h1 align="center">Hi 👋, I'm Jonah Chawre</h1>
-<h3 align="center">A passionate Designer from India</h3>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahcha&label=Profile%20views&color=0e75b6&style=flat" alt="jonahcha" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jonah_chawre" target="blank"><img src="https://img.shields.io/twitter/follow/jonah_chawre?logo=twitter&style=for-the-badge" alt="jonah_chawre" /></a> </p>
-
-- 🌱 I’m currently learning **Autodesk Fusion**
-
-- 💬 Ask me about **Machine, Product Design**
-
-- 📫 How to reach me **jonhachawre@gmail.com**
-
-- ⚡ Fun fact **Quick Learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jonah_chawre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonah_chawre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonahchawre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonahchawre" height="30" width="40" /></a>
-<a href="https://instagram.com/jonahchawre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonahchawre" height="30" width="40" /></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hey%20I'm%20Jonah%20Chawre%20👋&fontSize=42&fontAlignY=40&desc=Data%20Science%20|%20Analytics%20|%20Python%20Enthusiast&descAlignY=60&descAlign=60" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=435&lines=Data+Science+Explorer+🔍;Python+Developer+🐍;Turning+Data+Into+Decisions+📊;Learning+Machine+Learning+🧠;Driven+by+Curiosity+💡" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahcha&show_icons=true&locale=en&layout=compact" alt="jonahcha" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahcha&show_icons=true&locale=en" alt="jonahcha" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonahcha&" alt="jonahcha" /></p>
+Hey there! I'm **Jonah Chawre** — a curious engineer transitioning into a **Data Scientist & Python Developer**, passionate about using data to understand the world and create better solutions.
+
+🚀 I blend my technical background in **engineering design** with modern tools like **Python, SQL, Power BI**, and **data visualization** to solve real-world problems.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+</p>
+
+---
+
+### 🎯 What I’m Focused On
+
+- 🐍 Learning Python for Data Science  
+- 📊 Exploring Data Visualization with Power BI & Seaborn  
+- 🧠 Completing **IBM Data Analyst Professional Certificate**  
+- 🔍 Applying EDA on real-world datasets  
+- 🤖 Exploring Machine Learning fundamentals  
+
+---
+
+### 📚 Tech & Tool Stack
+
+| Category       | Tools & Tech                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Languages**  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-00758F?logo=sqlite&logoColor=white&style=flat-square) |
+| **Libraries**  | `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` |
+| **Analytics**  | `Power BI` · `Excel` · `Google Sheets` |
+| **Dev Tools**  | `Jupyter Notebook` · `Google Colab` · `VS Code` · `Git & GitHub` |
+| **Design**     | `AutoCAD` · `Fusion 360` · `Canva` |
+
+---
+
+### 🧪 Ongoing Projects
+
+💡 **AI Trainer Demo**  
+→ Train your own AI models in Colab with beginner-friendly code.  
+🔗 [View Project](https://github.com/JonahCha/ai-trainer-demo)
+
+🌐 **Portfolio Website**  
+→ [jonahchawre.me](https://jonahchawre.me) – Built using Canva & GitHub Pages.
+
+📊 **Coming Soon**:
+- Resume Analyzer using NLP  
+- Sales & Social Media Dashboard (Power BI)  
+- YouTube Data Analytics  
+- Daily Productivity Python Scripts  
+
+---
+
+### 🏆 Certifications
+
+- 🎓 IBM Data Analyst (In Progress)  
+- 👩‍💻 GitHub Foundations (Microsoft x DataCamp)  
+- 📈 Excel Essentials for Data Analysis  
+- 🐍 Python Bootcamp by Angela Yu (Day 15+)  
+- 🎯 Python Fundamentals (DataCamp)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonahCha&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonahCha&layout=compact&theme=tokyonight&hide_border=true" width="44%"/>
+</p>
+
+---
+
+### 🔗 Let’s Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/jonahchawre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jonahchawre.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://instagram.com/desilolzmemes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Quote I Live By
+
+> _“Don’t just collect data. Tell its story. Solve real problems with meaning.”_
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZibmczY2QzZXEzN2kwYXFjbnc4dzZoMHNtbGgwZ2lkN3NyYmUyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4BSacFKI7A717y/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+</p>
