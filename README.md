@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-Hey there! I'm **Jonah Chawre** — a curious engineer transitioning into a **Data Scientist & Python Developer**, passionate about using data to understand the world and create better solutions.
+Hey there! I'm **Jonah Chawre** a curious engineer transitioning into a **Data Scientist & Python Developer**, passionate about using data to understand the world and create better solutions.
 
 🚀 I blend my technical background in **engineering design** with modern tools like **Python, SQL, Power BI**, and **data visualization** to solve real-world problems.
 
